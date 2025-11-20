@@ -1,6 +1,3 @@
-A simple and responsive Sign-Up Form Validation project built using HTML, CSS, and JavaScript.
-It validates user input in real time, ensuring proper email format, required fields, password length, and password confirmation.
-This form demonstrates clean UI design, client-side validation logic, and user-friendly error handling.
 # 📝 Sign-Up Form With JavaScript Validation
 
 A fully responsive sign-up form with client-side validation for email, password, DOB, and terms agreement.  
