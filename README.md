@@ -16,11 +16,6 @@ Shows clean and friendly error messages.
 
 ---
 
-## 🖼 Preview  
-`![Sign Up Form](./form-preview.png)`
-
----
-
 ## 🛠 Tech Stack
 - **HTML5**  
 - **CSS3**  
@@ -32,7 +27,7 @@ Shows clean and friendly error messages.
 signup-form/
 │── index.html
 │── style.css
-│── script.js
+
 
 
 ---
